@@ -2,3 +2,6 @@
 
 data/*.csv
 
+#i want to track this file
+
+!data/spaceships.csv
