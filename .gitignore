@@ -1,0 +1,4 @@
+#these are instructions on what to ignore
+
+data/*.csv
+
